@@ -1,0 +1,4 @@
+﻿# .gitignore
+/.vs
+/BlankCordovaApp1/bin/
+/BlankCordovaApp1/simulation
